@@ -1,17 +1,15 @@
-# Project-Freksik-Privacy-Policy
-Project Freksik Privacy Policy
 PRIVACY POLICY FOR PROJECT FREKSIK ON QUEST 2, QUEST PRO, AND QUEST 3
-PROOJECT FREKSIK is a game developed by Freksik Studio for the Meta Quest platform. We prioritize your privacy and are committed to complying with all applicable privacy regulations, including the European Union's General Data Protection Regulation (GDPR). The game is designed for an entirely offline, solo experience, and no internet connection is required for gameplay. Ghost Hunter does not collect any personal information, data, or game statistics. We will never request, gather, or transmit any data.
+PROOJECT FREKSIK is a game developed by Freksik Studio for the Meta Quest platform. We prioritize your privacy and are committed to complying with all applicable privacy regulations, including the European Union's General Data Protection Regulation (GDPR). The game is designed for an entirely offline, solo experience, and no internet connection is required for gameplay. Project Freksik does not collect any personal information, data, or game statistics. We will never request, gather, or transmit any data.
 
 COMMITMENT TO CONFIDENTIALITY
 Freksik Studio is committed to safeguarding your privacy while you use Project Freksik on the Meta Quest platform. Below are the key points of our privacy policy:
 
 Confidential Information
 
-"Confidential Information" refers to any data or information exchanged between Freksik Studio and the user in any form (though in the context of this game, no such exchange takes place). We guarantee that no personal data will be collected by Ghost Hunter.
+"Confidential Information" refers to any data or information exchanged between Freksik Studio and the user in any form (though in the context of this game, no such exchange takes place). We guarantee that no personal data will be collected by Project Freksik.
 Ownership and Use of Data
 
-Any information related to your use of the game will remain entirely private. We do not transmit, sell, or monetize any data, as Ghost Hunter operates entirely offline. No third-party providers will have access to any information about your gameplay.
+Any information related to your use of the game will remain entirely private. We do not transmit, sell, or monetize any data, as Project Freksik operates entirely offline. No third-party providers will have access to any information about your gameplay.
 Duration of the Agreement
 
 This privacy agreement is effective from the moment you download and install Project Freksik. The terms of this agreement will remain in effect for as long as you use the game, and since no data is collected, your privacy is always maintained.
@@ -31,3 +29,4 @@ Project Freksik is an offline game.
 No data, including personal or statistical information, is collected.
 No personal information is shared or communicated with any third parties.
 The game does not log or store any gameplay statistics or personal details.
+
